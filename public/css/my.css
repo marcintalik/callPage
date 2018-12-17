@@ -1,0 +1,46 @@
+
+.s-header{
+    background: #111111;
+    color:#ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding:10px;   
+    margin-bottom:30px
+}
+.s-body{
+    padding:10px 5px;
+}
+.s-body a{
+    color:#ffffff !important;
+    text-transform: uppercase;
+    background: #111111;
+    cursor: pointer;
+    text-decoration: none;
+    padding:10px 5px;
+    width:100%;
+    display:block;
+    margin-bottom:10px;
+    border:1px solid #111111;
+    transition: 0.2s;
+    text-align: center
+}
+.s-body a:hover{
+    color:#111111 !important;
+    text-transform: uppercase;
+    background: #ffffff;
+    border:1px solid #111111;
+    transition: 0.2s;
+}         
+tr{
+    border-bottom:1px solid #333333
+}
+td{
+    padding:10px 0px;
+}
+.b-solo{
+    margin-bottom:50px !important
+}
+.btn-back{
+    margin-top:50px;
+    float:right
+}
